@@ -62,6 +62,8 @@ Super Fox Man está siendo desarrollado con **Unity** y programado en **C#**.
     
 
 ¡Prepárate para saltar y aprender con **Super Fox Man**!
+¡Prueba el juego aquí!
+https://fabiogonzalez2005.github.io/SuperFoxManTest/
 
 ## Capturas del juego
 ![image](https://github.com/user-attachments/assets/be593899-4c76-4546-90ca-01b6fdfaa7c2)
